@@ -10,21 +10,25 @@
 
 <!-- ANIMAÇÃO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Sempre+aprendendo+novas+tecnologias;Construindo+projetos+web;Rumo+ao+Full+Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Construindo+projetos+web;Evoluindo+como+dev+todos+os+dias;Rumo+ao+Full+Stack" />
 </p>
 
 ---
 
 ## 🧠 Sobre mim
-💻 Estudante de desenvolvimento focado em me tornar um **Full Stack Developer**  
-🌱 Aprendendo novas tecnologias e evoluindo constantemente  
-🧠 Desenvolvendo minha **lógica de programação**  
-🌐 Criando projetos voltados para **web**  
-⚡ Sempre buscando novos desafios e experiências  
+Sou estudante de tecnologia, cursando **Sistemas de Informação (Facisa)** e **Ciência da Computação (UFCG)**, com foco em me tornar um **desenvolvedor Full Stack**.
+
+Atualmente, estou construindo minha base em desenvolvimento web, aprofundando meus conhecimentos em **lógica de programação** e iniciando meus estudos em **SQL**, com planos de evoluir para tecnologias como **React** e **Node.js**.
+
+Participo de programas de formação como o **DevClub** e a **OneBitCode**, onde busco complementar minha formação acadêmica com experiência prática e projetos reais.
+
+Tenho grande interesse na parte lógica da programação e na resolução de problemas — o que mais me motiva é o processo de criar, testar e evoluir soluções, desde projetos simples até sistemas mais complexos.
+
+Estou em constante evolução, sempre buscando aprender novas tecnologias, enfrentar desafios e me desenvolver como profissional na área de tecnologia.
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo
+## 🚀 Tecnologias em aprendizado
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
@@ -47,7 +51,7 @@
 
 ---
 
-## 🔥 Streak (consistência)
+## 🔥 Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lucaself0308-creator&theme=tokyonight&hide_border=true"/>
@@ -55,16 +59,8 @@
 
 ---
 
-## 🚀 Jornada
-🌱 Aprendendo desenvolvimento web  
-💡 Criando projetos práticos  
-🧠 Evoluindo lógica de programação  
-⚡ Buscando experiência real  
-
----
-
 ## 🎯 Objetivo
-Me tornar um desenvolvedor Full Stack completo, criando aplicações eficientes, escaláveis e bem estruturadas.
+Me tornar um desenvolvedor Full Stack capaz de criar aplicações eficientes, escaláveis e bem estruturadas.
 
 ---
 
@@ -86,7 +82,6 @@ Me tornar um desenvolvedor Full Stack completo, criando aplicações eficientes,
 
 ---
 
-<!-- VISUAL EXTRA -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
